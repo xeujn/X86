@@ -9,6 +9,4 @@ CONFIG_VMDK_IMAGES=y
 CONFIG_PACKAGE_luci-app-dockerman=y
 CONFIG_PACKAGE_luci-app-store=y
 CONFIG_PACKAGE_luci-app-istorex=y
-CONFIG_PACKAGE_luci-app-unishare=y
 CONFIG_PACKAGE_luci-app-quickstart=y
-CONFIG_PACKAGE_luci-app-kodexplorer=y
