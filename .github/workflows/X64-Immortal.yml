@@ -26,7 +26,7 @@ jobs:
       #默认密码，仅作展示，请勿乱改
       OWRT_PW: 无
       #默认地址
-      OWRT_IP: 192.168.11.2
+      OWRT_IP: 192.168.22.3
       #默认源码
       OWRT_URL: https://github.com/immortalwrt/immortalwrt.git
       #默认分支
